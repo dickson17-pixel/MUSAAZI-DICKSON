@@ -55,20 +55,6 @@
                 <td style="border: 2px solid;padding: 15px;text-align: center;">4 YEARS</td>
                 </tr>
             </table>
-
-      <h2 id="about" style="color:#044700;">ABOUT US</h2>
-      <p style="line: height 2px;">
-        The IT faculty helps to groom a good model of skilled and proffessional people.This comes after students get practical skills from 
-        learning and working with ICT.The world needs more of technology which should come from the IT faculty.
-      </p>
-
-      <h2 id="contact" style="color:#002147;">CONTACT</h2>
-      <p style="line: height 2px;">
-        📍 Muteesa I Royal University, Kampala, Uganda <br>
-        📞 +256 700 000 000 <br>
-        📧 fst@mru.ac.ug
-      </p>
-    </div>
   </div>
 
   <footer style="background-color:#002147; color:rgb(255, 255, 255); text-align:center; padding: 15px; margin: top 15px;">
