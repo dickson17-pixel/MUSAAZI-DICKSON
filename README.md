@@ -58,11 +58,8 @@
   </div>
 
   <footer style="background-color:#002147; color:rgb(255, 255, 255); text-align:center; padding: 15px; margin: top 15px;">
-    &copy; <span id="year"></span> Muteesa I Royal University - Faculty of Science and Technology | All Rights Reserved
+    &copy; <span id="year"></span> Muteesa I Royal University - Faculty of Science and Technology | All Rights Reserved 2025
   </footer>
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
 
 </body>
 </html>
