@@ -22,7 +22,7 @@
     </div>
     <div style="flex:2;margin-left:200px;padding: 25px;">
         <div style="background: url('https://via.placeholder.com/1000×200.png?text=FACULTY OF SCIENCE AND TECHNOLOGY')no-repeat center;background-size: contain;height:200px;border-radius:12px;margin-bottom:25px;"></div>
-        <h2 style="color: cyan;margin-top: 0cm;">STEAD</h2>
+        <h2 style="color: cyan;margin-top: 0cm;">FSTEAD</h2>
         <p style="line: height 1.6em;">The faculty of science and technology at MRU is aimed at making skilled and professional
             technical personnels.It also has diffferent programs that enable students to get what they are already 
             aimed at.
