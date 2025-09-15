@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en uk">
     <head>
-    <title>FACULTY OF SCIENCE AND TECHNOLOGY MRU</title>
-        
+    <title>FACULTY OF SCIENCE AND TECHNOLOGY MRU</title>   
     </head>
     <body style="margin:2;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;background-color: aqua;">
    <header style="background-color: aliceblue;padding:10px;text-align: center;position: fixed;top: 2px;left: 2px;width: 100%;z-index:900;">
